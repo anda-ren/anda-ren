@@ -1,2 +1,2 @@
 ![Metrics](/github-metrics.svg)
-![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
+![Metrics](/profile-3d-contrib/profile-green-animate.svg)
